@@ -1,0 +1,65 @@
+.bg-light {
+    background-color: transparent !important;
+}
+
+.banner{
+  min-height: 50vh;
+  background: url(../assets/background2x.jpg);
+  /* background-size: 100% 120%; */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card-title{
+  /* text-align: center; */
+}
+
+.why-us{
+  background-color: #e9eff3;
+  min-height: 50vh;
+}
+
+.highlight-card, .highlight-card {background-color: #aae5fe; border-radius: 10px;}
+.highlight-card-m {background-color: #d0eef8; border-radius: 10px;}
+.highlight-card .card, .highlight-card .card, .highlight-card-m .card {background-color: transparent; border: 0px;}
+
+.quick-shadow{
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 4px 30px -5px rgba(0,0,0,0.47);
+  -moz-box-shadow: 0px 4px 30px -5px rgba(0,0,0,0.47);
+  box-shadow: 0px 4px 30px -5px rgba(0,0,0,0.47);
+  min-height: 50vh;
+}
+
+.our-services{
+  background-color: #aae5f8;
+  min-height: 50vh;
+}
+
+.about-us{
+  min-height: 50vh;
+}
+
+.our-team{
+  background-color: #e9eff3;
+  min-height: 50vh;
+}
+
+.border-radius{
+  border-radius: 30px;
+}
+
+.flex-spaced{
+  display: flex;
+  justify-content: space-between;
+}
+
+.full-centered{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-row{
+  min-height: 50vh;
+}
